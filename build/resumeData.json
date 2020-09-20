@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Rexhep Dema",
+    "occupation": " Web Developer ",
+    "description": "MERN Stack Developer by Day, Freelancer.",
+    "image": "rexhepdema.jpg",
+    "bio": "I describe my self as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "rexxepdema@gmail.com",
+    "phone": "+389 70 490 021",
+    "address": {
+      "street": "Cair, Dizhonska 17/3",
+      "city": "Skopje",
+      "state": "Republic of North Macedonia",
+      "zip": "1000"
+    },
+    "website": "https://drive.google.com/file/d/12eQ-9winCujiw-n0b9-UW0JB4QGkLkhY/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/12eQ-9winCujiw-n0b9-UW0JB4QGkLkhY/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rexhep.dema.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rexhep-dema-2895a61b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rexhep.dema/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/demarexhep",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Mother Teresa",
+        "degree": "Computer Science",
+        "graduated": "2016 - 2020",
+        "description": "Ability to analyze, break and solve problems applying simple solutions"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancing",
+        "title": "Full Stack Web Developer (MERN Stack)",
+        "years": "2017",
+        "description": "I am currently doing freelance work for local businesses while continuing to prepare for upcoming opportunies."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "JS",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "EXPRESS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook.png",
+        "url": "https://fb-clone-b612c.web.app/"
+      },
+      {
+        "title": "Ecommerce Site",
+        "category": "Ecommerce site build with (ReactJs,Context API)",
+        "image": "ecommerce.png",
+        "url": "https://ecommerce-react-92444.web.app"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-c692f.web.app"
+      },
+      {
+        "title": "tiktok Clone",
+        "category": "Tiktok Clone built with ReactJS",
+        "image": "tiktok.jpg",
+        "url": "https://tiktokclone-5ca56.web.app"
+      }
+    ]
+  }
+}
